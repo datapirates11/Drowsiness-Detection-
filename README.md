@@ -1,6 +1,6 @@
 # Drowsiness-Detection-
 
-For directly usinf my created model please download pre trained model from this drive link given below:
+For directly using our created model please download pre trained model from this drive link given below:
 
 https://drive.google.com/drive/folders/15p2V0iT-CPqI61TS-QQaWQLJQbZe0bVf?usp=sharing
 
